@@ -1,0 +1,20 @@
+medieval taverns:
+https://sketchfab.com/search?q=medieval+tavern&type=models
+
+tavern object:
+https://sketchfab.com/3d-models/medieval-tavern-105ffafd5c9b4026aa5cb3eacefc31a3
+
+medieval assests:
+https://sketchfab.com/3d-models/medieval-tavern-asset-pack-95da3564dbd0489d9854ae89a7a51752
+
+meshy (AI to create models):
+https://www.meshy.ai/discover?utm_source=chatgpt.com
+
+reference repo:
+https://github.com/AlessandroConti11/Computer_Graphics/tree/master
+
+tool for animations:
+https://www.mixamo.com/#/
+
+Vulkan tutorial on YouTube:
+https://youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR&si=ES-EFcSHOCJkcDSz
