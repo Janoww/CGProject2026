@@ -1,0 +1,47 @@
+# ====================================================================
+# .gitignore for the project
+# ====================================================================
+
+# --- Compilation and Build Systems ---
+# Excluding any build folder generated from CLion or manually
+MedievalTavern/cmake-build-debug/
+CMakeUserPresets.json
+
+# If builded outside cmake-build-X
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/cmake_install.cmake
+/build/
+*.ninja
+*.obj
+*.o
+*.pdb
+*.exe
+*.ilk
+*.gch
+
+# --- Framework artifacts ---
+# Excluding local copies of shaders and spv
+*.spv
+*.stamp
+shader_copy_stamps/
+
+# --- IDE & personal config ---
+# CLion / JetBrains
+.idea/
+*.iws
+*.iml
+
+# Visual Studio / VS Code
+.vs/
+/Debug/
+/Release/
+/x64/
+/.vscode/
+
+# --- System files and logs ---
+*.log
+.DS_Store
+Thumbs.db
+tree.txt
